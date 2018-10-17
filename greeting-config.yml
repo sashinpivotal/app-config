@@ -13,5 +13,6 @@ logging:
 
 greeting:
   displayFortune: true
+  xyz: sang
 
-quoteServiceURL: http://quote-service-dev.apps.dev.na-1.gaia.jpmchase.net/quote
+quoteServiceURL: http://quote-server-sang-shin-dev.cfapps.io/quote
