@@ -15,4 +15,4 @@ greeting:
   displayFortune: true
   xyz: sang
 
-quoteServiceURL: http://quote-server-sang-shin-qa.cfapps.io/quote
+quoteServiceURL: http://quote-server-sang-shin-dev.cfapps.io/quote
